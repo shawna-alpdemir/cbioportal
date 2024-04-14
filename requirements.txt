@@ -4,3 +4,4 @@ Jinja2==2.11.3
 mysqlclient==2.1.0
 PyYAML==5.4
 urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
