@@ -278,9 +278,9 @@
   <properties>
     <frontend.version>v5.2.7</frontend.version>
     <frontend.groupId>com.github.cbioportal</frontend.groupId>
-    <spring.version>5.2.22.RELEASE</spring.version>
+    <spring.version>6.1.14</spring.version>
     <spring.integration.version>5.3.0.RELEASE</spring.integration.version>
-    <spring.security.version>5.5.7</spring.security.version>
+    <spring.security.version>6.2.7</spring.security.version>
     <spring.social.version>1.1.6.RELEASE</spring.social.version>
     <jackson.version>2.14.0</jackson.version>
     <mysql-connector.version>5.1.48</mysql-connector.version>
